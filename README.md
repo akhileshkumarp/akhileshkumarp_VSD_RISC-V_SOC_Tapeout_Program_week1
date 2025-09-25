@@ -4,10 +4,14 @@ The week 0 repo which has initial setup of ubuntu with yosys, iverilog and gtkwa
 
 This week_1 has 5 days of workshop with the following contents
 
-Day_1 : Introduction to Verilog design and synthesis.
-Day_2 : Timing libs, hierarchical vs flat synthesis and efficient flop coding styles.
-Day_3 : Combinational and sequential optimizations.
-Day_4 : GLS, blocking vs non-blocking and Synthesis-Simulation mismatch.
-Day_5 : Optimization in synthesis.
+[Day_1 : Introduction to Verilog design and synthesis.](week1_tasks/Day_1/README.md)
+
+[Day_2 : Timing libs, hierarchical vs flat synthesis and efficient flop coding styles.](week1_tasks/Day_2/README.md)
+
+[Day_3 : Combinational and sequential optimizations.](week1_tasks/Day_3/README.md)
+
+[Day_4 : GLS, blocking vs non-blocking and Synthesis-Simulation mismatch.](week1_tasks/Day_4/README.md)
+
+[Day_5 : Optimization in synthesis.](week1_tasks/Day_5/README.md)
 
 contents will be updated as things progress.
