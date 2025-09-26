@@ -14,4 +14,7 @@ This week_1 has 5 days of workshop with the following contents
 
 [Day_5 : Optimization in synthesis.](week1_tasks/Day_5/README.md)
 
+
+for community support go to: https://github.com/vsdip/IndiaRiscvTapeoutProgram
+
 contents will be updated as things progress.
