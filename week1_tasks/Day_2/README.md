@@ -50,8 +50,14 @@ two main reasons why we do this
 2.Divide a huge design to multiple sub modules to tackle big design.
 
 Various flop coding styles and optimization
+
 17-SKY130RTL D2SK3 L1 Why Flops and Flop coding styles part1
+Lets see different styles of coding flops and types of flops available. 
+-> with just combinational circuits the propagation delay adds glitches to the signal, to prevent it with the proper timing sequence we use flops.
+flops are used in combinational path as a glitch filters, with sync/async resets/ initializations with proper values to prevent glitch insertions.
+
 18-SKY130RTL D2SK3 L2 Why Flops and Flop coding styles part2
+
 19-SKY130RTL D2SK3 L3 Lab flop synthesis simulations part1
 20-SKY130RTL D2SK3 L4 Lab flop synthesis simulations part2
 21-SKY130RTL D2SK3 L5 Interesting optimisations part1
