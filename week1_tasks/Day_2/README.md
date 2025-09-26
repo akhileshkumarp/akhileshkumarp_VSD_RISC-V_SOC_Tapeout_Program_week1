@@ -24,6 +24,13 @@ we can see the delay area and power changes across three different and gates sho
 
 Hierarchical and Flat synthesis
 15-SKY130RTL D2SK2 L1 Lab05 Hier synthesis flat synthesis part1
+The file we considering is multiple_modules.v file as shown below
+[![Day2_multiple_module_v_file](../week1_assets/Day2_multiple_module_v_file.png)](../week1_assets/Day2_multiple_module_v_file.png)
+
+launch yosys -> read liberty file -> Read multiple_modules.v -> synthesize top multiple_modules
+[![Day2_synth_multiple_modules](../week1_assets/Day2_synth_multiple_modules.png)](../week1_assets/Day2_synth_multiple_modules.png)
+[![Day2_multiple_modules_show](../week1_assets/Day2_multiple_modules_show.png)](../week1_assets/Day2_multiple_modules_show.png)
+
 16-SKY130RTL D2SK2 L2 Lab05 Hier synthesis flat synthesis part2
 
 Various flop coding styles and optimization
