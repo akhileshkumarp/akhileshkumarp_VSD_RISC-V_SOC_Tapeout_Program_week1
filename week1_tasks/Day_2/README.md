@@ -38,6 +38,11 @@ launch yosys -> read liberty file -> Read multiple_modules.v -> synthesize top m
 Because of the stacked PMOS problem on the NOR+NOT config the synthesis tool is optimized to choose the NAND + NOT gates to reduce the PMOS stack, thereby increasing mobility and overall effective circuit.
 
 16-SKY130RTL D2SK2 L2 Lab05 Hier synthesis flat synthesis part2
+When we use the command "flatten" on yosys terminal, it flattens the design 
+write the design to multiple_modules_flatten.v
+and now we can see that it is composed of gates
+
+[![Day2_multiple_modules_flatten](../week1_assets/Day2_multiple_modules_flatten.png)](../week1_assets/Day2_multiple_modules_flatten.png)
 
 Various flop coding styles and optimization
 17-SKY130RTL D2SK3 L1 Why Flops and Flop coding styles part1
