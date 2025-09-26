@@ -19,6 +19,8 @@ The file says what is the power, input cap, delay etc associated with the partic
 more info on the sky130_fd_sc_hd can be found at repo: https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hd
 
 14-SKY130RTL D2SK1 L3 Lab4 Introduction to dot Lib part3
+![Day2_lib_and2_compare](../week1_assets/Day2_lib_and2_compare.png)
+we can see the delay area and power changes across three different and gates shown in the above image.
 
 Hierarchical and Flat synthesis
 15-SKY130RTL D2SK2 L1 Lab05 Hier synthesis flat synthesis part1
