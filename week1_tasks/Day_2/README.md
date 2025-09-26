@@ -13,6 +13,11 @@ T-> Temperature :variation due to temp changes.
 
 13-SKY130RTL D2SK1 L2 Lab4 Introduction to dot Lib part2
 
+[![Day2_lib_behavirour_file_loook](../week1_assets/Day2_lib_behavirour_file_loook.png)](../week1_assets/Day2_lib_behavirour_file_loook.png)
+The file says what is the power, input cap, delay etc associated with the particular component at differnt configurations.
+
+more info on the sky130_fd_sc_hd can be found at repo: https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hd
+
 14-SKY130RTL D2SK1 L3 Lab4 Introduction to dot Lib part3
 
 Hierarchical and Flat synthesis
