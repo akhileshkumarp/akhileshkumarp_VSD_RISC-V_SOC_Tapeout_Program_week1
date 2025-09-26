@@ -33,6 +33,10 @@ launch yosys -> read liberty file -> Read multiple_modules.v -> synthesize top m
 -> once we see the result using show command we can see that its in hierarchical model where we do not see it as AND gate, OR gate, instead we just see as module1 and module2 as seen below.
 [![Day2_multiple_modules_show](../week1_assets/Day2_multiple_modules_show.png)](../week1_assets/Day2_multiple_modules_show.png)
 
+-> write the contents to a verilog file called multiple_modules_hierarchical.v
+[![Day2_write_multiple_module_hier](../week1_assets/Day2_write_multiple_module_hier.png)](../week1_assets/Day2_write_multiple_module_hier.png)
+Because of the stacked PMOS problem on the NOR+NOT config the synthesis tool is optimized to choose the NAND + NOT gates to reduce the PMOS stack, thereby increasing mobility and overall effective circuit.
+
 16-SKY130RTL D2SK2 L2 Lab05 Hier synthesis flat synthesis part2
 
 Various flop coding styles and optimization
