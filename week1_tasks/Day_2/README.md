@@ -29,6 +29,8 @@ The file we considering is multiple_modules.v file as shown below
 
 launch yosys -> read liberty file -> Read multiple_modules.v -> synthesize top multiple_modules
 [![Day2_synth_multiple_modules](../week1_assets/Day2_synth_multiple_modules.png)](../week1_assets/Day2_synth_multiple_modules.png)
+
+-> once we see the result using show command we can see that its in hierarchical model where we do not see it as AND gate, OR gate, instead we just see as module1 and module2 as seen below.
 [![Day2_multiple_modules_show](../week1_assets/Day2_multiple_modules_show.png)](../week1_assets/Day2_multiple_modules_show.png)
 
 16-SKY130RTL D2SK2 L2 Lab05 Hier synthesis flat synthesis part2
