@@ -44,6 +44,11 @@ and now we can see that it is composed of gates
 
 [![Day2_multiple_modules_flatten](../week1_assets/Day2_multiple_modules_flatten.png)](../week1_assets/Day2_multiple_modules_flatten.png)
 
+[![Day2_multiple_module_submodule1_synth](../week1_assets/Day2_multiple_module_submodule1_synth.png)](../week1_assets/Day2_multiple_module_submodule1_synth.png)
+two main reasons why we do this 
+1.Module level synthesis is prefered when we have multiple instances of the same module.
+2.Divide a huge design to multiple sub modules to tackle big design.
+
 Various flop coding styles and optimization
 17-SKY130RTL D2SK3 L1 Why Flops and Flop coding styles part1
 18-SKY130RTL D2SK3 L2 Why Flops and Flop coding styles part2
