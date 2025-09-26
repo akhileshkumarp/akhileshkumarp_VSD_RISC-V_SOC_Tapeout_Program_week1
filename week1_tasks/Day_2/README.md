@@ -3,7 +3,16 @@ Timing libs, hierarchical vs flat synthesis and efficient flop coding styles.
 
 Introduction to timing .libs
 12-SKY130RTL D2SK1 L1 Lab4 Introduction to dot Lib part1
+Image shows the .lib file of the sky130 which shows the various parameters of the library file.
+[![Day2_lib_file](../week1_assets/Day2_lib_file.png)](../week1_assets/Day2_lib_file.png)
+The libraries can be either slow, typical or fast, the above shown .lib is a typical lib.
+.lib takes consideration of the PVT corners, 
+P-> Process :variation due to process related change.
+V-> Voltage :variation due to voltage changes.
+T-> Temperature :variation due to temp changes.
+
 13-SKY130RTL D2SK1 L2 Lab4 Introduction to dot Lib part2
+
 14-SKY130RTL D2SK1 L3 Lab4 Introduction to dot Lib part3
 
 Hierarchical and Flat synthesis
