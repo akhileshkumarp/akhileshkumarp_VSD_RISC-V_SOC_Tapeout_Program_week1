@@ -34,7 +34,14 @@ Labs on "Incomplete overlapping Case"
 
 47-SKY130RTL D5SK3 L2 Lab incomplete overlapping Case part2
 
+[![Day5_simulation_comp_case](../week1_assets/Day5_simulation_comp_case.png)](../week1_assets/Day5_simulation_comp_case.png)
+
+[![Day5_synth_comp_case](../week1_assets/Day5_synth_comp_case.png)](../week1_assets/Day5_synth_comp_case.png)
+
+
 48-SKY130RTL D5SK3 L3 Lab incomplete overlapping Case part3
+
+[![Day5_simulation_bad_case](../week1_assets/Day5_simulation_bad_case.png)](../week1_assets/Day5_simulation_bad_case.png)
 
 49-SKY130RTL D5SK3 L4 Lab incomplete overlapping Case part4
 
