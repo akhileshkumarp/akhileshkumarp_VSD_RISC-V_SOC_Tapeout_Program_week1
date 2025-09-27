@@ -54,3 +54,9 @@ Sequential logic optimization for unused outputs.
 
 
 32-SKY130RTL D3SK4 L2 Seq optimisation unused outputs part2
+
+[![Day3_modified_counter_opt2_verilog_analysis](../week1_assets/Day3_modified_counter_opt2_verilog_analysis.png)](../week1_assets/Day3_modified_counter_opt2_verilog_analysis.png)
+
+[![Day3_synth_counter_opt2_analysis](../week1_assets/Day3_synth_counter_opt2_analysis.png)](../week1_assets/Day3_synth_counter_opt2_analysis.png)
+
+[![Day3_synth_counter_opt2_result_view](../week1_assets/Day3_synth_counter_opt2_result_view.png)](../week1_assets/Day3_synth_counter_opt2_result_view.png)
