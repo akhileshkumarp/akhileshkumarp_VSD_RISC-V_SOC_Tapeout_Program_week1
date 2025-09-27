@@ -44,6 +44,7 @@ Labs on "Incomplete overlapping Case"
 [![Day5_simulation_bad_case](../week1_assets/Day5_simulation_bad_case.png)](../week1_assets/Day5_simulation_bad_case.png)
 
 49-SKY130RTL D5SK3 L4 Lab incomplete overlapping Case part4
+[![Day5_gls_Bad_case](../week1_assets/Day5_gls_Bad_case.png)](../week1_assets/Day5_gls_Bad_case.png)
 
 for loop and for generate.
 
@@ -56,6 +57,9 @@ for loop and for generate.
 
 Labs on "for loop" and "for generate"
 53-SKY130RTL D5SK5 L1 Lab For and For Generate part1
+[![Day5_mux_generate_code](../week1_assets/Day5_mux_generate_code.png)](../week1_assets/Day5_mux_generate_code.png)
+
+[![Day5_mux_generate_simulation](../week1_assets/Day5_mux_generate_simulation.png)](../week1_assets/Day5_mux_generate_simulation.png)
 
 
 54-SKY130RTL D5SK5 L2 Lab For and For Generate part2
