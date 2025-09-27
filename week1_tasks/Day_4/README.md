@@ -3,7 +3,7 @@ GLS, blocking vs non-blocking and Synthesis-Simulation mismatch.
 
 GLS, Synthesis-Simulation mismatch and Blocking/Non-blocking statements
 33-SKY130RTL D4SK1 L1 GLSConceptsAndFlowUsingIverilog
-Day4_GLS_intro.png
+[![Day4_GLS_intro](../week1_assets/Day4_GLS_intro.png)](../week1_assets/Day4_GLS_intro.png)
 
 34-SKY130RTL D4SK1 L2 SynthesisSimulationMismatch
 precationary measures to take care in sensitivity list etc. 
@@ -17,6 +17,16 @@ caveats with blocking statemetns in depth
 
 Labs on GLS and Synthesis-Simulation mismatch
 37-SKY130RTL D4SK2 L1 Lab GLS Synth Sim Mismatch part1
+[![Day4_ternary_good_mux_bad_mux](../week1_assets/Day4_ternary_good_mux_bad_mux.png)](../week1_assets/Day4_ternary_good_mux_bad_mux.png)
+
+[![Day4_simulation_ternary_wave](../week1_assets/Day4_simulation_ternary_wave.png)](../week1_assets/Day4_simulation_ternary_wave.png)
+
+[![Day4_synth_stat_ternary](../week1_assets/Day4_synth_stat_ternary.png)](../week1_assets/Day4_synth_stat_ternary.png)
+
+[![Day4_synth_ternary_result_view](../week1_assets/Day4_synth_ternary_result_view.png)](../week1_assets/Day4_synth_ternary_result_view.png)
+
+[![Day4_sim_ternary_synth_netlist](../week1_assets/Day4_sim_ternary_synth_netlist.png)](../week1_assets/Day4_sim_ternary_synth_netlist.png)
+
 38-SKY130RTL D4SK2 L2 Lab GLS Synth Sim Mismatch part2
 
 Labs on synth-sim mismatch for blocking statement
