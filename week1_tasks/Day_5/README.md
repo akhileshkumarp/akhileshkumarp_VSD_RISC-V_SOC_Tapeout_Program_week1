@@ -63,7 +63,9 @@ Labs on "for loop" and "for generate"
 
 
 54-SKY130RTL D5SK5 L2 Lab For and For Generate part2
+[![Day5_demux_simulation](../week1_assets/Day5_demux_simulation.png)](../week1_assets/Day5_demux_simulation.png)
 
+[![Day5_Demux_generate_simulation](../week1_assets/Day5_Demux_generate_simulation.png)](../week1_assets/Day5_Demux_generate_simulation.png)
 
 55-SKY130RTL D5SK5 L3 Lab For and For Generate part3
 
