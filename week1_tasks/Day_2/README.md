@@ -71,5 +71,15 @@ comparing with the async set we can see below async set.
 [![Day2_simulation_dff_sync_res](../week1_assets/Day2_simulation_dff_sync_res.png)](../week1_assets/Day2_simulation_dff_sync_res.png)
 
 20-SKY130RTL D2SK3 L4 Lab flop synthesis simulations part2
+[![Day2_synth_dff_async_set](../week1_assets/Day2_synth_dff_async_set.png)](../week1_assets/Day2_synth_dff_async_set.png)
+
+[![Day2_synth_dff_syncres](../week1_assets/Day2_synth_dff_syncres.png)](../week1_assets/Day2_synth_dff_syncres.png)
+
 21-SKY130RTL D2SK3 L5 Interesting optimisations part1
+[![Day2_synth_mul2](../week1_assets/Day2_synth_mul2.png)](../week1_assets/Day2_synth_mul2.png)
+
 22-SKY130RTL D2SK3 L6 Interesting optimisations part2
+
+[![Day2_mul2](../week1_assets/Day2_mul2.png)](../week1_assets/Day2_mul2.png)
+
+[![Day2_mult8_synth](../week1_assets/Day2_mult8_synth.png)](../week1_assets/Day2_mult8_synth.png)
