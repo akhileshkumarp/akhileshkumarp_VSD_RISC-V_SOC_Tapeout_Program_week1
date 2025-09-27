@@ -28,7 +28,19 @@ Labs on GLS and Synthesis-Simulation mismatch
 [![Day4_sim_ternary_synth_netlist](../week1_assets/Day4_sim_ternary_synth_netlist.png)](../week1_assets/Day4_sim_ternary_synth_netlist.png)
 
 38-SKY130RTL D4SK2 L2 Lab GLS Synth Sim Mismatch part2
+[![Day4_simulation_Bad_mux](../week1_assets/Day4_simulation_Bad_mux.png)](../week1_assets/Day4_simulation_Bad_mux.png)
+
+[![Day4_bad_mux_synth_view](../week1_assets/Day4_bad_mux_synth_view.png)](../week1_assets/Day4_bad_mux_synth_view.png)
 
 Labs on synth-sim mismatch for blocking statement
 39-SKY130RTL D4SK3 L1 Lab Synth sim mismatch blocking statement part1
+[![Day4_blocking_caveat_verilog](../week1_assets/Day4_blocking_caveat_verilog.png)](../week1_assets/Day4_blocking_caveat_verilog.png)
+
+[![Day4_simulation_blocking_caveat](../week1_assets/Day4_simulation_blocking_caveat.png)](../week1_assets/Day4_simulation_blocking_caveat.png)
+
 40-SKY130RTL D4SK3 L2 Lab Synth sim mismatch blocking statement part2
+[![Day4_synth_report_blocking_caveat](../week1_assets/Day4_synth_report_blocking_caveat.png)](../week1_assets/Day4_synth_report_blocking_caveat.png)
+
+[![Day4_synth_result_blocking_caveat](../week1_assets/Day4_synth_result_blocking_caveat.png)](../week1_assets/Day4_synth_result_blocking_caveat.png)
+
+[![Day4_sim_netlist_blocking_caveat](../week1_assets/Day4_sim_netlist_blocking_caveat.png)](../week1_assets/Day4_sim_netlist_blocking_caveat.png)
