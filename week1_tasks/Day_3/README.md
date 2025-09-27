@@ -23,7 +23,20 @@ Combinational logic optimizations.
 
 Sequential logic optimizations.
 28-SKY130RTL D3SK3 L1 Lab07 Sequential Logic Optimisations part1
+[![Day3_dff_const1_const2](../week1_assets/Day3_dff_const1_const2.png)](../week1_assets/Day3_dff_const1_const2.png)
+
+[![Day3_simulation_dff_const1](../week1_assets/Day3_simulation_dff_const1.png)](../week1_assets/Day3_simulation_dff_const1.png)
+
+[![Day3_simulation_dff_const2](../week1_assets/Day3_simulation_dff_const2.png)](../week1_assets/Day3_simulation_dff_const2.png)
+
+[![Day3_dff_const1_synth](../week1_assets/Day3_dff_const1_synth.png)](../week1_assets/Day3_dff_const1_synth.png)
+
+[![Day3_dff_const1_const2_verilog_view](../week1_assets/Day3_dff_const1_const2_verilog_view.png)](../week1_assets/Day3_dff_const1_const2_verilog_view.png)
+
 29-SKY130RTL D3SK3 L2 Lab07 Sequential Logic Optimisations part2
+
+[![Day3_synth_opt_dff_const2](../week1_assets/Day3_synth_opt_dff_const2.png)](../week1_assets/Day3_synth_opt_dff_const2.png)
+
 30-SKY130RTL D3SK3 L3 Lab07 Sequential Logic Optimisations part3
 
 Sequential logic optimization for unused outputs.
