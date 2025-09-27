@@ -39,6 +39,18 @@ Sequential logic optimizations.
 
 30-SKY130RTL D3SK3 L3 Lab07 Sequential Logic Optimisations part3
 
+[![Day3_simulation_dff_const3](../week1_assets/Day3_simulation_dff_const3.png)](../week1_assets/Day3_simulation_dff_const3.png)
+
+[![Day3_synth_dff_const3](../week1_assets/Day3_synth_dff_const3.png)](../week1_assets/Day3_synth_dff_const3.png)
+
 Sequential logic optimization for unused outputs.
+
 31-SKY130RTL D3SK4 L1 Seq optimisation unused outputs part1
+[![Day3_counter_opt_verilog_analysis](../week1_assets/Day3_counter_opt_verilog_analysis.png)](../week1_assets/Day3_counter_opt_verilog_analysis.png)
+
+[![Day3_synth_counter_opt_dff_single](../week1_assets/Day3_synth_counter_opt_dff_single.png)](../week1_assets/Day3_synth_counter_opt_dff_single.png)
+
+[![Day3_synth_counter_opt_result](../week1_assets/Day3_synth_counter_opt_result.png)](../week1_assets/Day3_synth_counter_opt_result.png)
+
+
 32-SKY130RTL D3SK4 L2 Seq optimisation unused outputs part2
